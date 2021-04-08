@@ -1,6 +1,6 @@
 # pyMoney
 
-A Graphical User Interface (GUI) that is used to record daily life incomes and expenses that is implemented with Python ans Tkinter.
+A Graphical User Interface (GUI) that is used to record daily life incomes and expenses that is implemented with Python and Tkinter.
 <br>
 <br>
 
