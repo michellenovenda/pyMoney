@@ -1,9 +1,8 @@
 # pyMoney
 
-A simple interactive Python program that is used to record daily life incomes and expenses.
+A Graphical User Interface (GUI) that is used to record daily life incomes and expenses that is implemented with Python ans Tkinter.
 <br>
 <br>
-Important note: I am currently working on recovering the Graphic User Interface (GUI) version I made using Python's Tkinter, since I lost the file due to unexpected events. I will update once I have successfully recovered the file.
 
 Features:
 1. Add: Lets user input a complete data of their income/expense records (category, description, and amount), which will then be saved in a records.txt file.
